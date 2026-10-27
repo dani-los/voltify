@@ -46,8 +46,8 @@ export const CLIENTS = [
 ];
 
 export const FAQS = [
-  { q: 'Do I need a site visit first?', a: 'We survey most properties before confirming a price.' },
-  { q: 'Which areas do you cover?', a: 'We cover all of Addis Ababa and selected areas of Sheger City.' },
+  { q: 'Do I need a site visit first?', a: 'We survey most properties before confirming installations & price.' },
+  { q: 'Which areas do you cover?', a: 'We cover all over Addis Ababa and selected areas of Sheger City.' },
   { q: 'Can you install any charger brand?', a: 'Yes, we install all charger brands.' },
   { q: 'How long does an installation take?', a: 'It depends on the environment and scope of the project, and is decided during the site visit. On average, an installation takes 1–2 days.' },
 ];
